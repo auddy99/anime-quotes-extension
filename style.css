@@ -1,0 +1,13 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+#bgImg{
+	/*object-fit: fill;*/
+	height: 100%;
+	width: 100%;
+}
+
+.bgimg-div{
+	height: 100vh;
+	/*border: 1px solid blue;*/
+	box-sizing: border-box;
+}
